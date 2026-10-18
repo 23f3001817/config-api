@@ -1,0 +1,4 @@
+port: 8777
+debug: true
+log_level: info
+api_key: key-ven0jaq8xs
